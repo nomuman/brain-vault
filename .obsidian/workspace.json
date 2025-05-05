@@ -20,8 +20,23 @@
               "icon": "diff",
               "title": "Diff: workspace.json"
             }
+          },
+          {
+            "id": "6987ce7b41aeff2b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "00_inbox/私のObsidianとの出会いは4年ぶり.md",
+                "bFile": "00_inbox/私のObsidianとの出会いは4年ぶり.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 私のObsidianとの出会いは4年ぶり"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cd8d76a29f56c92",
+  "active": "6987ce7b41aeff2b",
   "lastOpenFiles": [
+    "00_inbox/私のObsidianとの出会いは4年ぶり.md",
     "README.md"
   ]
 }
