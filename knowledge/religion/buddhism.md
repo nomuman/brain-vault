@@ -1,6 +1,9 @@
 ---
-title: "Buddhism Basics"
-tags: [religion, buddhism]
+title: Buddhism Basics
+tags:
+  - religion
+  - buddhism
+  - o3
 status: concept
 updated: 2025-05-05
 ---

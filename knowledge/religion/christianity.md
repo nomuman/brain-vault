@@ -1,6 +1,9 @@
 ---
-title: "Christianity Overview"
-tags: [religion, christianity]
+title: Christianity Overview
+tags:
+  - religion
+  - christianity
+  - o3
 status: concept
 updated: 2025-05-05
 ---

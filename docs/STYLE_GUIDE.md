@@ -19,7 +19,7 @@ brain-vault のノート/記事を書くときのガイドライン（2025-05-05
 ```yaml
 ---
 title: "Yoneda Lemma"
-tags: [math, category-theory]
+tags: [math, category-theory, o3]
 status: draft
 updated: 2025-05-05
 ---

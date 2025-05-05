@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/math/category-theory/母でもわかる圏論.md",
+                "file": "00_inbox/私のObsidianとの出会いは4年ぶり.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "母でもわかる圏論"
+              "title": "私のObsidianとの出会いは4年ぶり"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/math/category-theory/母でもわかる圏論.md",
+                "file": "00_inbox/私のObsidianとの出会いは4年ぶり.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 母でもわかる圏論"
+              "title": "Backlinks for 私のObsidianとの出会いは4年ぶり"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/math/category-theory/母でもわかる圏論.md",
+                "file": "00_inbox/私のObsidianとの出会いは4年ぶり.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 母でもわかる圏論"
+              "title": "Outgoing links from 私のObsidianとの出会いは4年ぶり"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/math/category-theory/母でもわかる圏論.md",
+                "file": "00_inbox/私のObsidianとの出会いは4年ぶり.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 母でもわかる圏論"
+              "title": "Outline of 私のObsidianとの出会いは4年ぶり"
             }
           },
           {
@@ -181,14 +181,20 @@
   },
   "active": "f391860b6541d683",
   "lastOpenFiles": [
+    "README.md",
+    "knowledge/religion/buddhism.md",
+    "knowledge/math/topology/母でもわかるトポロジー.md",
     "knowledge/math/topology/compactness.md",
     "knowledge/math/category-theory/母でもわかる圏論.md",
+    "ideas/business/saas-marketplace.md",
+    "docs/STYLE_GUIDE.md",
+    "ideas/tech/agent-framework.md",
+    "knowledge/religion/christianity.md",
+    "knowledge/religion/MOC_religion.md",
     "knowledge/math/category-theory/yoneda-lemma.md",
     "Category Theory Notebook.md",
-    "ideas/tech/agent-framework.md",
     "ideas/tech",
     "knowledge/tech",
-    "00_inbox/私のObsidianとの出会いは4年ぶり.md",
-    "README.md"
+    "00_inbox/私のObsidianとの出会いは4年ぶり.md"
   ]
 }

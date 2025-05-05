@@ -1,6 +1,9 @@
 ---
-title: "Vertical SaaS Marketplace"
-tags: [idea, business]
+title: Vertical SaaS Marketplace
+tags:
+  - idea
+  - business
+  - o3
 status: idea
 updated: 2025-05-05
 ---
