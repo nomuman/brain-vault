@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "660affd88242dd26",
+        "id": "2e66a5b4aeda7f70",
         "type": "tabs",
         "children": [
           {
-            "id": "3cd8d76a29f56c92",
+            "id": "f391860b6541d683",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "knowledge/math/category-theory/母でもわかる圏論.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "6987ce7b41aeff2b",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "00_inbox/私のObsidianとの出会いは4年ぶり.md",
-                "bFile": "00_inbox/私のObsidianとの出会いは4年ぶり.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 私のObsidianとの出会いは4年ぶり"
+              "icon": "lucide-file",
+              "title": "母でもわかる圏論"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "knowledge/math/category-theory/母でもわかる圏論.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 母でもわかる圏論"
             }
           },
           {
@@ -127,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "knowledge/math/category-theory/母でもわかる圏論.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 母でもわかる圏論"
             }
           },
           {
@@ -155,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "knowledge/math/category-theory/母でもわかる圏論.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 母でもわかる圏論"
             }
           },
           {
@@ -191,8 +179,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6987ce7b41aeff2b",
+  "active": "f391860b6541d683",
   "lastOpenFiles": [
+    "knowledge/math/topology/compactness.md",
+    "knowledge/math/category-theory/母でもわかる圏論.md",
+    "knowledge/math/category-theory/yoneda-lemma.md",
+    "Category Theory Notebook.md",
+    "ideas/tech/agent-framework.md",
+    "ideas/tech",
+    "knowledge/tech",
     "00_inbox/私のObsidianとの出会いは4年ぶり.md",
     "README.md"
   ]
