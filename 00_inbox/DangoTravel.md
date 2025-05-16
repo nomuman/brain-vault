@@ -32,4 +32,8 @@ https://cloud.google.com/blog/topics/sustainability/new-geospatial-datasets-in-b
 ### Flutter
 - 不要なプラットフォームのディレクトリは削除したいです
 	- linux, macos, windowsあたり？
-- Riverpodはコード生成の使用を推奨
+- Riverpodはコード生成の使用を推奨されているのと、コード生成の方が楽なのでおすすめです〜
+	- https://riverpod.dev/ja/docs/concepts/about_code_generation
+- ライセンスページはあった方が無難です〜
+	- https://zenn.dev/mukkun69n/articles/8f366cb6408b7e
+- 
