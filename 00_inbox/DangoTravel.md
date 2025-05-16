@@ -17,20 +17,15 @@ https://cloud.google.com/blog/topics/sustainability/new-geospatial-datasets-in-b
 	- すでに企業や自治体と契約したりしてる？
 
 
-## いいと思ったところ
-### Flutter
-- ディレクトリ構成はこれで良さそうです！
-- 
 
-## 気になったところ
 ### 全体
 - lambda-apiは今使ってないですか？
 	- 使っていないファイルはすぐ消した方が、どんな参画者がきても迷わない
+- 使ってないソースコードも結構残っちゃってますかね？？
 - コメントの言語はできる限り統一したいです
 	- 今は三言語ありそう？
 - ER図とかありますか？
 	- 結構テーブル多そうなのですが、この辺りの設計は問題ないですかね？データ周りは後から修正するの大変そうです〜
-
 ### Supabase
 - Supabaseのキー直打ち込みはやめた方がいいですー
 	- https://zenn.dev/koichi_51/articles/2cc5ea540254d1
@@ -44,3 +39,7 @@ https://cloud.google.com/blog/topics/sustainability/new-geospatial-datasets-in-b
 	- https://riverpod.dev/ja/docs/concepts/about_code_generation
 - ライセンスページはあった方が無難です〜
 	- https://zenn.dev/mukkun69n/articles/8f366cb6408b7e
+- debugPrintはリリースモードでも出力されちゃうのでやめた方がいいです！
+	- https://zenn.dev/fastriver/articles/flutter-debug-print
+	- logging入れてるみたいなので、それを必ず使うようにしたい
+- とにかくリントエラーはすぐ潰す
