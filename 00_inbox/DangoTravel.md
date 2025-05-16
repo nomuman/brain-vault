@@ -26,6 +26,8 @@ https://cloud.google.com/blog/topics/sustainability/new-geospatial-datasets-in-b
 	- 今は三言語ありそう？
 - ER図とかありますか？
 	- 結構テーブル多そうなのですが、この辺りの設計は問題ないですかね？データ周りは後から修正するの大変そうです〜
+- コメントアウトがとにかく多くて読みにくいかもです…適切な量にしたいです
+	- 基本はなくていいかも。説明ないと処理がわからないアルゴリズムだけつければ良い派です！
 ### Supabase
 - Supabaseのキー直打ち込みはやめた方がいいですー
 	- https://zenn.dev/koichi_51/articles/2cc5ea540254d1
@@ -42,4 +44,5 @@ https://cloud.google.com/blog/topics/sustainability/new-geospatial-datasets-in-b
 - debugPrintはリリースモードでも出力されちゃうのでやめた方がいいです！
 	- https://zenn.dev/fastriver/articles/flutter-debug-print
 	- logging入れてるみたいなので、それを必ず使うようにしたい
-- とにかくリントエラーはすぐ潰す
+- とにかくlintの警告はすぐ潰すようにした方がいいです〜
+	- パフォーマンス悪くなったり、本当のエラーがわからなくなったりする為
