@@ -15,3 +15,21 @@ https://cloud.google.com/blog/topics/sustainability/new-geospatial-datasets-in-b
 - 友達から案内してもらうようなUXにしたら？
 - マネタイズ
 	- すでに企業や自治体と契約したりしてる？
+
+
+## いいと思ったところ
+### 全体
+### Flutter
+- 
+
+## 気になったところ
+### 全体
+- lambda-apiは今使ってない？
+	- 使っていないファイルはすぐ消した方が、どんな参画者がきても迷わない
+- コメントの言語はできる限り統一する
+	- 今は三言語ありそう？
+
+### Flutter
+- 不要なプラットフォームのディレクトリは削除する
+	- linux, macos, windowsあたり？
+	- 
