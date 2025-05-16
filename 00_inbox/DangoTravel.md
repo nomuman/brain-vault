@@ -18,18 +18,18 @@ https://cloud.google.com/blog/topics/sustainability/new-geospatial-datasets-in-b
 
 
 ## いいと思ったところ
-### 全体
 ### Flutter
+- ディレクトリ構成はこれで良さそうです！
 - 
 
 ## 気になったところ
 ### 全体
-- lambda-apiは今使ってない？
+- lambda-apiは今使ってないですか？
 	- 使っていないファイルはすぐ消した方が、どんな参画者がきても迷わない
-- コメントの言語はできる限り統一する
+- コメントの言語はできる限り統一したいです
 	- 今は三言語ありそう？
 
 ### Flutter
-- 不要なプラットフォームのディレクトリは削除する
+- 不要なプラットフォームのディレクトリは削除したいです
 	- linux, macos, windowsあたり？
-	- 
+- Riverpodはコード生成の使用を推奨
