@@ -28,7 +28,7 @@ https://cloud.google.com/blog/topics/sustainability/new-geospatial-datasets-in-b
 	- 使っていないファイルはすぐ消した方が、どんな参画者がきても迷わない
 - コメントの言語はできる限り統一したいです
 	- 今は三言語ありそう？
-
+- ER図とかありますか？
 ### Flutter
 - 不要なプラットフォームのディレクトリは削除したいです
 	- linux, macos, windowsあたり？
